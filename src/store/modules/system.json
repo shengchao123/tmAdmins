@@ -1,0 +1,191 @@
+[
+  {
+    "pageUrl": "Home",
+    "name": "首页",
+    "icon": "icon_shouye"
+  },
+  {
+    "pageUrl": "PlatformManage",
+    "name": "平台管理",
+    "icon": "icon_pingtaiguanli",
+    "children": [
+      {
+        "pageUrl": "OrganizationList",
+        "name": "组织管理"
+      },
+      {
+        "pageUrl": "Role",
+        "name": "用户角色管理"
+      },
+      {
+        "pageUrl": "User",
+        "name": "用户管理"
+      },
+      {
+        "pageUrl": "FreezeUsers",
+        "name": "冻结用户管理"
+      },
+      {
+        "pageUrl": "LogManage",
+        "name": "日志管理"
+      }
+    ]
+  },
+  {
+    "pageUrl": "MapSettings",
+    "name": "初心之旅管理",
+    "icon": "icon_chuxinzhilvguanli",
+    "children": [
+      {
+        "pageUrl": "PointManage",
+        "name": "点位管理"
+      },
+      {
+        "pageUrl": "RouteManage",
+        "name": "路线管理"
+      },
+      {
+        "pageUrl": "EvaluateManage",
+        "name": "评价管理"
+      },
+      {
+        "pageUrl": "TravelBill",
+        "name": "行程单管理"
+      }
+    ]
+  },
+  {
+    "pageUrl": "UnionManage",
+    "name": "联盟管理",
+    "icon": "icon_dangjianlianmengguanli",
+    "children": [
+      {
+        "pageUrl": "UnionList",
+        "name": "联盟管理"
+      },
+      {
+        "pageUrl": "KeyWorkManage",
+        "name": "重点工作管理"
+      },
+      {
+        "pageUrl": "TalentManagement",
+        "name": "风采管理"
+      },
+      {
+        "pageUrl": "ActivityManagement",
+        "name": "活动管理"
+      },
+      {
+        "pageUrl": "AfficheManagement",
+        "name": "公告管理"
+      },
+      {
+        "pageUrl": "CommunityManagement",
+        "name": "社区管理",
+        "children": [
+          {
+            "pageUrl": "PostManagement",
+            "name": "帖子管理"
+          },
+          {
+            "pageUrl": "CommentManagement",
+            "name": "评论管理"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pageUrl": "UserCenter",
+    "name": "用户中心",
+    "icon": "icon_yonghuzhongxin",
+    "children": [
+      {
+        "pageUrl": "UserInfo",
+        "name": "用户信息"
+      },
+      {
+        "pageUrl": "CustomersManage",
+        "name": "客群标签管理"
+      },
+      {
+        "pageUrl": "ShopManager",
+        "name": "红心商城管理"
+      }
+    ]
+  },
+  {
+    "pageUrl": "UrbanIntegration",
+    "name": "城乡融合",
+    "icon": "icon_yonghuzhongxin",
+    "children": [
+      {
+        "pageUrl": "SelectProduct",
+        "name": "优选产品管理"
+      },
+      {
+        "pageUrl": "MerchantsBooth",
+        "name": "商家展位管理"
+      },
+      {
+        "pageUrl": "CustomManage",
+        "name": "定制管理"
+      }
+    ]
+  },
+  {
+    "pageUrl": "TalentThinkTankManage",
+    "name": "人才智库管理",
+    "icon": "icon_yonghuzhongxin",
+    "children": [
+      {
+        "pageUrl": "PolicyManage",
+        "name": "政策管理"
+      },
+      {
+        "pageUrl": "PersonnelManage",
+        "name": "人才管理"
+      },
+      {
+        "pageUrl": "Subsidies",
+        "name": "涉农项目管理"
+      }
+    ]
+  },
+  {
+    "pageUrl": "GrassrootsGovernance",
+    "name": "基层治理",
+    "icon": "icon_jicengzhili",
+    "children": [
+      {
+        "pageUrl": "GoodHand",
+        "name": "好帮手",
+        "children": [
+          {
+            "pageUrl": "BuildUnit",
+            "name": "共建单位管理"
+          },
+          {
+            "pageUrl": "CommunityProjects",
+            "name": "社区项目管理"
+          },
+          {
+            "pageUrl": "Statistics",
+            "name": "城市党建日统计表"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pageUrl": "SmsManage",
+    "name": "短信管理",
+    "icon": "icon_yonghuzhongxin",
+    "children": [
+      {
+        "pageUrl": "SmsManage",
+        "name": "短信管理"
+      }
+    ]
+  }
+]
